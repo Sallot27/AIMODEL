@@ -1,0 +1,10 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+python-multipart
+sqlite3
+ollama
+python-jose[cryptography]
+passlib[bcrypt]
+reportlab
+python-dotenv
