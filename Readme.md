@@ -25,16 +25,18 @@ Coming soon! (Add link to live demo, video, or GIF)
 ---
 
 ## ✨ Features
-- [x] Clean and responsive UI
-- [x] Firebase integration
-- [ ] Dark mode support (coming soon)
-
+  -view of AI Model to detect images uploaded to 
+  -using ollama vision 3.2
+  
 ---
 
 ## ⚙ Installation
 
 ```bash
 git clone https://github.com/sallot27/project-name.git
-cd project-name
-flutter pub get
-flutter run
+cd AIMODEL
+cd backend
+python app.py
+cd ../frontend
+npm start
+
