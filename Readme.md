@@ -26,6 +26,7 @@ Coming soon! (Add link to live demo, video, or GIF)
 
 ## ✨ Features
   -view of AI Model to detect images uploaded to 
+  
   -using ollama vision 3.2
   
 ---
